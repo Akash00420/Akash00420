@@ -22,13 +22,12 @@ Hi, I'm Akash Ghosh, a passionate tech enthusiast and student at Narula Institut
 ## 🏅 Certifications
 
 <p align="center">
-  <img src="./assets/ai-skills-fest-2026.png" alt="Microsoft AI Skills Fest 2026 Badge" width="200"/>
+  <img src="assets/ai-skills-fest-2026.png" width="200" alt="AI Skills Fest 2026 Badge"/>
 </p>
 
 <p align="center">
   <b>Microsoft AI Skills Fest 2026</b>
 </p>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Akash00420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
